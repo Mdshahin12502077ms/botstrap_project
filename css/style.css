@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.btn_hover:hover{
+   background-color: aqua;
+   color: red;
+  font-weight: 600;
+}
+.img_logo{
+  height:60px;
+  border-radius:5px;
+}
+#tooltip{
+  margin-left: 3%;
+}
